@@ -1,1 +1,30 @@
-.Minlåda {width: 100px; height: 100px; color: red;}
+body {background-color: rgb(204, 204, 204, 01);}
+
+.Minlåda, .Minlåda2, .Minlåda3 {
+    width: 200px; 
+    height: 200px; 
+    padding: 10px;
+    border-width: 16px;
+    border-style: solid;
+    margin-bottom: 20px;
+    margin-left: 120px;
+    margin-top: 20px;
+    outline: 10px solid white;
+}
+
+.Minlåda {
+    background-color: red;
+    border-color: rgb(139, 0, 1);
+}
+
+.Minlåda2 {
+    background-color: yellow;
+    border-color: rgb(184, 134, 11, 1);
+}
+
+.Minlåda3 {
+    background-color: green;
+    
+    border-color: rgb(0, 100, 0, 1);
+   
+}
